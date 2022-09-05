@@ -1,5 +1,5 @@
 # Seattle Eating
-
+![Screenshot](/assets/screenshot.png "Screenshot")
 If you've ever been to the Emerald City, you know that it feels nearly impossible to find affordable places to eat.
 
 When I began learning React Native in 2019, the first application I built worked to resolve this issue by allowing the user to see restaurants in Seattle categorized by their price per plate. Additionally, the user can search for food and view the restaurants that match their search grouped by their cost per plate.
