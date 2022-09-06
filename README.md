@@ -22,7 +22,7 @@ You can copy and pase the following commands into macOS, Linux, or Windows Termi
 Clone this repository locally:
 
 ```
-git clone https://github.com/mrivasperez/writer..git
+git clone https://github.com/mrivasperez/seattle-eating.git
 ```
 
 Install dependencies with npm:
